@@ -1,5 +1,5 @@
 ## First git status output:
-$ git status
+ git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -10,7 +10,7 @@ Untracked files:
         
 ## Second git status output:
 
-$ git status
+ git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -38,7 +38,7 @@ With version control, it is possible to:
 
 - `git init`: to initialize repository.
 - `git status`: to get what your current status is.
-- `git add`: what changes you made in a file but will not be automatically tracked.
+- `git add`: what changes you made in a file but will not be automatically tracked this is where git commit does 
 - `git commit`: Create a meaningful messages to the changes.
 - `git push`: save the changes in the remote repository 
 - `git pull`: to fetch changes from remote and merge them in repository.
