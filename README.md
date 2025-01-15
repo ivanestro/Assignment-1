@@ -1,4 +1,4 @@
-# Assignment 1
+# COMP-1327 Assignment 1
 
 ## Description
 
