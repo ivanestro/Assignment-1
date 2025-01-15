@@ -1,5 +1,17 @@
+# Assignment 11
+
+## Description
+
+This is for Module 1 Assignment 1 about outputs, define codes, branching.
+
+## Author
+
+Ivan Estropigan
+
+
+
 ## First git status output:
- git status
+git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -46,3 +58,12 @@ With version control, it is possible to:
 - `git branch`: a listing of all repository can be used without a branch name.
 - `git merge`: is used to combine different branches into a single branch.
 - `git checkout`: is used to switch different branches.
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- This is a new branch which is unrelated to the main branch
+- People can work on multiple branches and this new-branch is me if I had a person who will work on a new branch it will be new-branch2
+- Can be merged in the main branch
+- Does not affect peoples work.
